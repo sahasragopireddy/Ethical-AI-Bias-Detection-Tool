@@ -12,22 +12,23 @@ This project is a Streamlit-based web app that helps users detect and visualize 
 ## Installation
 ### Clone the repository -
 ```
-function test() {
-  console.log("Tgit clone https://github.com/yourusername/ethical-ai-bias-tool.git
-cd ethical-ai-bias-tool");
-}
+git clone https://github.com/yourusername/ethical-ai-bias-tool.git
+cd ethical-ai-bias-tool
 ```
-
 ### Create and activate a virtual environment - 
+```
 python -m venv venv
 source venv/bin/activate   # Mac/Linux  
 venv\Scripts\activate      # Windows
-
+```
 ### Install dependencies - 
-Edit
+```
 pip install -r requirements.txt
+```
 
 ## Usage
 ### Run the Streamlit app - 
+```
 streamlit run app.py
+```
 Open the browser window that appears, upload your dataset, and start exploring bias!
