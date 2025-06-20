@@ -12,7 +12,7 @@ This project is a Streamlit-based web app that helps users detect and visualize 
 ## Installation
 ### Clone the repository -
 ```
-git clone https://github.com/sahasragopireddy/ethical-ai-bias-tool.git
+git clone git@github.com:sahasragopireddy/Ethical-AI-Bias-Detection-Tool.git
 cd ethical-ai-bias-tool
 ```
 ### Create and activate a virtual environment - 
